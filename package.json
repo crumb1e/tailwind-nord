@@ -12,6 +12,9 @@
     "tailwindcss",
     "nord"
   ],
+  "files": [
+    "index.js"
+  ],
   "author": "Daniel Crewdson <danielcrewdson@gmail.com>",
   "license": "ISC",
   "devDependencies": {
