@@ -7,9 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "package"
+    "package",
+    "tailwind",
+    "tailwindcss",
+    "nord"
   ],
-  "author": "Daniel Crewdson",
+  "author": "Daniel Crewdson <danielcrewdson@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^1.2.0"
