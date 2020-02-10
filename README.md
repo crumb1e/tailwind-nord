@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/crumb1e/tailwind-nord">
-    <img src="tailwind-nord.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/crumb1e/tailwind-nord/master/tailwind-nord.png" alt="Logo">
   </a>
 
   <h1 align="center">Tailwind Nord</h1>
