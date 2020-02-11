@@ -26,7 +26,7 @@ In your tailwind.config.js:
   ],
 ```
 
-You know have access to the Nord theme anywhere you would use normal tailwind colours.
+You now have access to the Nord theme anywhere you would use normal tailwind colours.
 
 ```html
 <div class="bg-nord0">
