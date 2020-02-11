@@ -1,6 +1,6 @@
 {
   "name": "tailwind-nord",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "A tailwindcss plugin that enables the use of the Nord colour palette",
   "main": "index.js",
   "scripts": {
