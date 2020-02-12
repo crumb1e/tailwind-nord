@@ -1,4 +1,5 @@
-![](https://img.shields.io/npm/v/tailwind-nord?style=for-the-badge)
+![](https://img.shields.io/npm/v/tailwind-nord?style=flat)
+![](https://img.shields.io/npm/dw/tailwind-nord?style=flat)
 
 <p align="center">
   <a href="https://github.com/crumb1e/tailwind-nord">
