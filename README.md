@@ -1,3 +1,5 @@
+![](https://img.shields.io/npm/v/tailwind-nord?style=for-the-badge)
+
 <p align="center">
   <a href="https://github.com/crumb1e/tailwind-nord">
     <img src="https://raw.githubusercontent.com/crumb1e/tailwind-nord/master/tailwind-nord.png" alt="Logo">
@@ -5,7 +7,6 @@
 
   <h1 align="center">Tailwind Nord</h1>
 </p>
-
 
 A super tiny tailwind plugin that enables the use of the [Nord color palette](https://www.nordtheme.com/).
 
