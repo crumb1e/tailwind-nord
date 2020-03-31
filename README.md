@@ -35,3 +35,5 @@ You now have access to the Nord theme anywhere you would use normal tailwind col
     <p class="text-nord5">Hello, this is some text</p>
 </div>
 ```
+
+I've stuck to the colour names set in the Nord documentation to keep things simple. Check that out [here](https://www.nordtheme.com/docs/colors-and-palettes).
