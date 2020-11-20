@@ -19,7 +19,7 @@
   "author": "Daniel Crewdson <danielcrewdson@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "tailwindcss": "^1.2.0"
+    "tailwindcss": "^1.9.0 || ^2.0.0"
   },
   "repository": {
     "type": "git",
