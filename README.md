@@ -31,8 +31,8 @@ In your tailwind.config.js:
 You now have access to the Nord theme anywhere you would use normal tailwind colours.
 
 ```html
-<div class="bg-nord0">
-    <p class="text-nord5">Hello, this is some text</p>
+<div class="bg-polarNight0">
+    <p class="text-snowStorm1">Hello, this is some text</p>
 </div>
 ```
 
