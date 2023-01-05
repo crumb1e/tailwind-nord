@@ -21,7 +21,8 @@ module.exports = plugin(function({ theme }) {
                 'nord11': '#BF616A',
                 'nord12': '#D08770',
                 'nord13': '#EBCB8B',
-                'nord14': '#A3BE8C', 'nord15': '#B48EAD',
+                'nord14': '#A3BE8C',
+                'nord15': '#B48EAD',
 
                 /* Tailwind-like Nord color names */
                 'nord-0': '#2E3440',
