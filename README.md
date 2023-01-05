@@ -36,4 +36,12 @@ You now have access to the Nord theme anywhere you would use normal tailwind col
 </div>
 ```
 
-I've stuck to the colour names set in the Nord documentation to keep things simple. Check that out [here](https://www.nordtheme.com/docs/colors-and-palettes).
+You can use the colour names set in the Nord documentation. Check that out [here](https://www.nordtheme.com/docs/colors-and-palettes).
+
+But you can also use Tailwind-like color names like below.
+```html
+<div class="bg-nord-0">
+    <p class="text-nord-5">Hello, this is some text</p>
+</div>
+```
+
